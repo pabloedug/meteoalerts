@@ -18,7 +18,7 @@ Meteoalerts es un script en R (ejecutable en consola linux) que permite obtener 
 3. Lo verdaderamente útil es programar una tarea CRON (por ejemplo en RaspberryPi) para lanzar el script todas las noches y que envíe un correo en caso de haber alerta.
 
 ----
-## Dependencias
+## dependencias
 Se requiere tener instalados los siguientes paquetes de R:
 
 - XML
